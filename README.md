@@ -5,5 +5,5 @@ Hackathon Winner
 
 SDLC phases completed  Analyze > Desgin > Develop > Testing 
 
-# To be pushed in this public repo on September 1.
+To be pushed from private in this public repo on September 1.
 
